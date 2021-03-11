@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Minha primeira página</title>
+</head>
+
+<style>
+    h1 {
+        color: aqua;
+    
+    }
+
+    h2 {
+        color: brown;
+    }
+
+    h3 {
+        color: red;
+    }
+</style>
+
+<body>
+    
+    <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam, dolores laborum totam eius amet distinctio
+        minima voluptatum placeat non necessitatibus, accusamus ex? Id ratione voluptate nisi, odio nam dicta velit?<h1>
+        </h1>
+        <h2>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum molestias numquam quia provident distinctio
+            illum magnam atque quae, voluptas maiores a quam autem, nihil, cum eveniet voluptate nam veritatis
+            laudantium?
+        </h2>
+        <h3>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum, adipisci? Nostrum mollitia architecto
+            tempore ipsa beatae omnis. Recusandae neque, laboriosam minus ex perferendis possimus veniam suscipit quo,
+            deleniti aliquid debitis!
+        </h3>
+
+        <img src="https://image.cachorrogato.com.br/thumb/1200/630/1/imagens/original/imagem858.jpg"
+            alt="Cachorro fofinho">
+        <ul>
+            <li>
+                <p>
+                    <a href="https://www.facebook.com.br">Facebook</a>
+                </p>
+            </li>
+        </ul>
+
+</body>
+
+</html>
