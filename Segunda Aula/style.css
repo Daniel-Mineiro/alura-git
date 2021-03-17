@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+    background-color: #3131c5;
+}
+
+.card {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-body {
+    background-color: #a1d3e4;
+}
+
+h1 {
+    color: white;
+}
